@@ -24,3 +24,11 @@ MySQL, Eclipse
 
 ## Deployment Environment/ System Requirements:
 JDK version - 1.8, Maven version - 3
+
+## Steps to run this application:
+
+1. Open terminal in eclipse and give the following command ``` mvn clean install ```
+
+2. Right click poc_project --> Maven --> Update Project
+
+3. Run as java application
