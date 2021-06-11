@@ -16,7 +16,7 @@ Doctors can able to see the appointments booked by the users.
 User can able to book appointment to take lab test and also user have access to view details of departments, doctors and hospital's contact details.
 
 ## Technologies:
-Spring Boot, MySQL, Spring Security, HTML
+Spring Boot, MYSQL, Spring Security, HTML
 
 
 ## Tools:
