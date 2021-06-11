@@ -9,11 +9,11 @@
 
 ## Features:
 #### 1. Admin Module:
-Admin can able to add doctor and other admin. And admin can view the appointments booked by the users. Also the admin has access to edit his/her profile and to view user or doctor details.
+Admin can able to add doctor, other admin and can able to view the appointments booked by the users. Also the admin has access to edit his/her profile and view user and doctor details.
 #### 2. Doctor Module:
 Doctors can able to see the appointments booked by the users.
 #### 3. User Module:
-User can able to book appointment to take lab test and also user have access to view details of departments, doctors and hospital's contact details.
+User can able to book appointment to take lab test and also user have access to view details of departments, doctors and contact details.
 
 ## Technologies:
 Spring Boot, MYSQL, Spring Security, HTML
