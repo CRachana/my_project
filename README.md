@@ -25,6 +25,9 @@ MySQL 8, Eclipse
 ## Deployment Environment/ System Requirements:
 JDK version - 1.8, Maven version - 3
 
+## Required Dependencies
+Spring mail, Thymeleaf, data jpa, Spring Security, MySql, Spring Web
+
 ## Steps to run this application:
 
 1. Open terminal in eclipse and give the following command ``` mvn clean install ```
