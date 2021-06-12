@@ -20,13 +20,13 @@ Spring Boot, MYSQL, Spring Security, HTML
 
 
 ## Tools:
-MySQL 8, Eclipse
+MySQL 8, Eclipse Oxygen
 
 ## Deployment Environment/ System Requirements:
 JDK version - 1.8, Maven version - 3
 
 ## Required Dependencies
-Spring mail, Thymeleaf, data jpa, Spring Security, MySql, Spring Web
+Spring mail, Thymeleaf, Data jpa, Spring Security, MYSQL, Spring Web
 
 ## Steps to run this application:
 
