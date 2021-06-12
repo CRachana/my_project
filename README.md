@@ -1,4 +1,5 @@
 # Pathology Lab Management System
+**Rachana C** || ***rachanarachana820@gmail.com***<br>
 
 ## Description:
 - This project is used to coordinate and integrate all the activities in the management and running of a pathology centre. 
